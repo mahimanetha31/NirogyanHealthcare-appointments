@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NirogyanHealthcare-appointments/static/css/main.e6c13ad2.css",
+    "main.js": "/NirogyanHealthcare-appointments/static/js/main.67602988.js",
+    "static/js/453.6de0a017.chunk.js": "/NirogyanHealthcare-appointments/static/js/453.6de0a017.chunk.js",
+    "index.html": "/NirogyanHealthcare-appointments/index.html",
+    "main.e6c13ad2.css.map": "/NirogyanHealthcare-appointments/static/css/main.e6c13ad2.css.map",
+    "main.67602988.js.map": "/NirogyanHealthcare-appointments/static/js/main.67602988.js.map",
+    "453.6de0a017.chunk.js.map": "/NirogyanHealthcare-appointments/static/js/453.6de0a017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67602988.js"
+  ]
+}
